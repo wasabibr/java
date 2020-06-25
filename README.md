@@ -1,2 +1,2 @@
 # java
-Repositório de estudo em Java (atividades e projetos avulsos).
+Repositório de estudos em Java (atividades e projetos avulsos).
